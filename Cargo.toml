@@ -9,3 +9,7 @@ edition = "2021"
 rand = "*"
 indicatif = "*"
 atty = "*"
+num_cpus = "*"
+ctrlc = "*"
+serde = { version = "*", features = ["derive"] }
+serde_json = "*"
